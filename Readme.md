@@ -1,0 +1,1 @@
+Attempting my first Next.js applicaiton
